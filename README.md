@@ -23,7 +23,7 @@ Access the Web App - Use the web app to predict multiple diseases.
 Installation
 Clone the repository:
 
-git clone https://github.com/shubh12-raj/disease-predication-web-app/edit/main/README.md
+git clone https://github.com/shubh12-raj/disease-predication-web-app.git
 Install the required dependencies:
 
 pip install -r requirements.txt
